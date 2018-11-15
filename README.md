@@ -1,3 +1,5 @@
+# Udacity Project: Movie Data Analysis
+
 # Introduction
 
 For this project the TMDb movie data will be investigated. This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
